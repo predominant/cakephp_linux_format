@@ -1,0 +1,11 @@
+# Temp files
+/tmp/cache/models/*
+/tmp/cache/persistent/*
+/tmp/cache/views/*
+/tmp/sessions/*
+/tmp/tests/*
+/tmp/logs/*
+!empty
+
+# Configuration files
+/config/database.php
